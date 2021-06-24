@@ -1,4 +1,4 @@
-package qaclickacademy;
+	package qaclickacademy;
 
 import org.testng.annotations.Test;
 
@@ -18,6 +18,11 @@ public class SeleniumTest {
 		System.out.println("elementsUI");
 	}
 	
+	@Test
+	public void elementsUIs()
+	{
+		System.out.println("elementsUIs");
+	}
 	
 }
 
